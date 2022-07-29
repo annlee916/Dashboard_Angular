@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+This project is updated version from "Angular 8 Admin Dashboard Panel from scratch using Angular Material, highcharts and flex-layout" 
+https://www.youtube.com/watch?v=FP7Hs8lTy1k&t=5s
